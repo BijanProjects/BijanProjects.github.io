@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate and Graduate Courses"
 permalink: /teaching/
 venue: "Memorial University of Newfoundland, Department of Electrical and Computer Engineering"
-date: 2024-09-24
+date: 2022-present
 location: "St. John's, Canada"
 ---
 
@@ -20,7 +20,7 @@ location: "St. John's, Canada"
 - Assisted in grading exams and assignments.
 - Supervised lab sessions and guided students in circuit design.
 
-=====
+---
 
 ### Spring 2024
 **Courses:**
@@ -34,7 +34,7 @@ location: "St. John's, Canada"
 - Helped students with assignments and lab work, ensuring a strong understanding of security concepts.
 - Provided detailed feedback on calculus problem sets and circuit projects.
   
-=====
+---
 
 ### Winter 2024
 **Courses:**
