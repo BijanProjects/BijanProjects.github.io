@@ -8,11 +8,6 @@ date: 2024-09-24
 location: "St. John's, Canada"
 ---
 
-## Teaching Assistantship History
-
-Below is an organized record of my Teaching Assistant (TA) roles across various undergraduate and graduate courses, detailing the time periods, instructors, and responsibilities.
-
----
 
 ### Fall 2024
 **Courses:**
@@ -25,7 +20,7 @@ Below is an organized record of my Teaching Assistant (TA) roles across various 
 - Assisted in grading exams and assignments.
 - Supervised lab sessions and guided students in circuit design.
 
----
+=====
 
 ### Spring 2024
 **Courses:**
@@ -39,7 +34,7 @@ Below is an organized record of my Teaching Assistant (TA) roles across various 
 - Helped students with assignments and lab work, ensuring a strong understanding of security concepts.
 - Provided detailed feedback on calculus problem sets and circuit projects.
   
----
+=====
 
 ### Winter 2024
 **Courses:**
@@ -53,7 +48,8 @@ Below is an organized record of my Teaching Assistant (TA) roles across various 
 - Graded student projects and provided technical feedback.
 - Held tutorials to address student challenges in computing and circuits.
 
----
+
+=====
 
 ### Fall 2023
 **Courses:**
@@ -66,7 +62,8 @@ Below is an organized record of my Teaching Assistant (TA) roles across various 
 - Assisted in programming labs, guiding students through assignments.
 - Conducted tutorials for circuit design and provided support for mathematics assignments.
   
----
+
+=====
 
 ### Spring 2023
 **Courses:**
@@ -79,7 +76,8 @@ Below is an organized record of my Teaching Assistant (TA) roles across various 
 - Led lab sessions on concurrent programming and assisted in circuit labs.
 - Graded calculus assignments and guided students through complex circuit designs.
 
----
+
+=====
 
 ### Winter 2023
 **Courses:**
@@ -92,13 +90,15 @@ Below is an organized record of my Teaching Assistant (TA) roles across various 
 - Evaluated student work and provided technical support during lab sessions.
 - Conducted additional tutorials for complex control system topics.
 
----
+
+=====
 
 ## Conclusion
 
 Through these diverse teaching roles, I have contributed to both undergraduate and graduate education, assisting students in their academic development and enhancing my own skills in teaching, mentoring, and course management.
 
----
+
+=====
 
 ## Key Highlights of Responsibilities:
 
