@@ -1,13 +1,3 @@
----
-title: "Teaching Experience"
-collection: teaching
-type: "Undergraduate and Graduate Courses"
-permalink: /teaching/
-venue: "Memorial University of Newfoundland, Department of Electrical and Computer Engineering"
-date: 2022-09-01
-location: "St. John's, Canada"
----
-
 # Teaching Experience
 
 Throughout my tenure as a Teaching Assistant (TA), I have contributed to both undergraduate and graduate-level courses. My responsibilities have ranged from supervising labs, conducting tutorials, grading assignments, and providing additional academic support to students.
