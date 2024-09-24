@@ -75,9 +75,9 @@ Throughout my tenure as a Teaching Assistant (TA), I have contributed to both un
 
 ## Spring 2023
 **Courses:**
-- **Concurrent Programming**  
-  **Instructor:** Dr. Rachel Brown  
-  **TA Duties:** Led labs on multi-threaded applications, graded projects on concurrency, and assisted students during office hours with debugging.
+- **ECE 7400 - Concurrent Programming**  
+  **Instructor:** Dr. Reza Shahidi
+  **TA Duties:** Graded projects on concurrency, and assisted students during office hours with debugging.
 
 - **ENGI 1040 - Mechanisms and Electric Circuits**  
   **Instructor:** Dr. Sohrab Zendehboudi  
