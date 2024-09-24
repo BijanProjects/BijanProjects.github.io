@@ -3,7 +3,7 @@ title: "Machine learning predicts long-term mortality after acute myocardial inf
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper was part of my bachelor’s project at K. N. Toosi University of Technology, Tehran, Iran, in conjunction with an internship at the LIVIA Lab, École de technologie supérieure (ETS), Montreal, Canada. The research focused on predicting long-term mortality in AMI patients using machine learning algorithms, including Random Forest, AdaBoost, and XGBoost.
+excerpt: 'This paper was part of my bachelor’s project at K. N. Toosi University of Technology, Tehran, Iran, in conjunction with an internship at the LIVIA Lab, École de technologie supérieure (ETS), Montreal, Canada. The research focused on predicting long-term mortality in AMI patients using machine learning algorithms, including Random Forest, AdaBoost, and XGBoost.'
 date: 2024-06-17
 venue: 'Intelligent Medicine'
 slidesurl: # URL
