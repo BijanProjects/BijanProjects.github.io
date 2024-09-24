@@ -9,4 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-[Bijan Roudini.pdf](https://github.com/user-attachments/files/17117546/Bijan.Roudini.pdf)
+
+![1727195035948-dfea4171-cee5-49f9-93cd-e61efecbe602_1](https://github.com/user-attachments/assets/3acc1f55-5cfd-4817-a76a-862a75cfc5ca)
