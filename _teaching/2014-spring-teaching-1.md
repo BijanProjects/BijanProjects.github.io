@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate and Graduate Courses"
 permalink: /teaching/
 venue: "Memorial University of Newfoundland, Department of Electrical and Computer Engineering"
-date: 2022-present
+date: 2022-09-01
 location: "St. John's, Canada"
 ---
 
