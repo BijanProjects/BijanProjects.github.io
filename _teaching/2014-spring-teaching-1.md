@@ -2,7 +2,7 @@
 title: "Teaching Experience"
 collection: teaching
 type: "Undergraduate and Graduate Courses"
-permalink: /teaching/2024-ta-experience
+permalink: /teaching/
 venue: "Memorial University of Newfoundland, Department of Electrical and Computer Engineering"
 date: 2024-09-24
 location: "St. John's, Canada"
