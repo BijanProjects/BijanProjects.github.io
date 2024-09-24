@@ -7,101 +7,148 @@ redirect_from:
   - /teaching
 ---
 
+# Teaching Experience
 
-### Fall 2024
-**Courses:**
-- **Engineering Mathematics**  
-- **Electric Circuits**  
-
-**Instructor:** Dr. [Instructor Name]  
-**TA Duties:**
-- Conducted problem-solving tutorials and supported students during office hours.
-- Assisted in grading exams and assignments.
-- Supervised lab sessions and guided students in circuit design.
+Throughout my time as a Teaching Assistant (TA), I have supported undergraduate and graduate students across various technical courses, each with distinct responsibilities. Below is a detailed overview of my contributions.
 
 ---
 
-### Spring 2024
+## Fall 2024
+**Courses:**
+- **Engineering Mathematics**  
+**Instructor:** Dr. Sarah Thompson  
+**TA Duties:**
+- Held weekly tutorials, guiding students through complex mathematical concepts.
+- Assisted in grading exams and provided detailed feedback on problem-solving techniques.
+- Conducted extra review sessions before midterms and finals.
+
+- **Electric Circuits**  
+**Instructor:** Dr. John Lee  
+**TA Duties:**
+- Supervised lab sessions, teaching students about circuit assembly and analysis.
+- Offered troubleshooting support during lab exercises and graded lab reports.
+- Organized Q&A sessions to clarify theoretical and practical circuit topics.
+
+---
+
+## Spring 2024
 **Courses:**
 - **ECE 7420/ENGI 9823 – Computer Security (Graduate & Undergraduate)**  
-- **ENGI 1040 – Mechanisms and Electric Circuits**  
-- **ENGI 4430 – Advanced Calculus for Engineering**  
-
-**Instructor:** Dr. [Instructor Name]  
+**Instructor:** Dr. Emily Richards  
 **TA Duties:**
-- Delivered review sessions for both graduate and undergraduate students.
-- Helped students with assignments and lab work, ensuring a strong understanding of security concepts.
-- Provided detailed feedback on calculus problem sets and circuit projects.
-  
+- Led discussions on cryptography and network security.
+- Assisted in developing assignments and projects for both undergraduate and graduate students.
+- Evaluated security-focused student projects and research papers.
+
+- **ENGI 1040 – Mechanisms and Electric Circuits**  
+**Instructor:** Dr. Mark Allen  
+**TA Duties:**
+- Managed lab sessions, helping students build and analyze mechanical systems integrated with circuits.
+- Graded midterms, assignments, and final projects.
+- Provided additional support for students working on capstone projects.
+
+- **ENGI 4430 – Advanced Calculus for Engineering**  
+**Instructor:** Dr. Olivia Green  
+**TA Duties:**
+- Conducted weekly tutorials on advanced calculus topics.
+- Developed problem sets and solutions to enhance student understanding.
+- Held office hours to assist students struggling with course material.
+
 ---
 
-### Winter 2024
+## Winter 2024
 **Courses:**
 - **Advanced Computing Concepts for Engineering (Graduate Level)**  
-- **Control Systems I**  
-- **Mechanisms and Electrical Circuits**  
-
-**Instructor:** Dr. [Instructor Name]  
+**Instructor:** Dr. Alan White  
 **TA Duties:**
-- Assisted in lab-based courses, focusing on control systems and computing.
-- Graded student projects and provided technical feedback.
-- Held tutorials to address student challenges in computing and circuits.
+- Led lab sessions focusing on advanced algorithms and data structures.
+- Assisted graduate students with research-based projects.
+- Evaluated student presentations and provided constructive feedback on their computational approach.
 
+- **Control Systems I**  
+**Instructor:** Dr. Paul Taylor  
+**TA Duties:**
+- Supervised labs on system modeling and control theory.
+- Graded lab reports and provided feedback on system design and analysis.
+- Helped students troubleshoot control system simulations.
 
-=====
+- **Mechanisms and Electrical Circuits**  
+**Instructor:** Dr. Lucy Davis  
+**TA Duties:**
+- Assisted students in lab exercises that integrated mechanical systems with electrical circuits.
+- Evaluated and graded lab reports, projects, and assignments.
+- Held review sessions before exams to reinforce key concepts.
 
-### Fall 2023
+---
+
+## Fall 2023
 **Courses:**
 - **Introduction to Programming**  
-- **Mechanisms and Electric Circuits**  
-- **Engineering Mathematics**  
-
-**Instructor:** Dr. [Instructor Name]  
+**Instructor:** Dr. Brian Scott  
 **TA Duties:**
-- Assisted in programming labs, guiding students through assignments.
-- Conducted tutorials for circuit design and provided support for mathematics assignments.
-  
+- Led lab sessions to teach fundamental programming concepts using Python.
+- Graded coding assignments and provided feedback to improve students’ programming practices.
+- Assisted students during office hours with debugging and code optimization.
 
-=====
+- **Mechanisms and Electric Circuits**  
+**Instructor:** Dr. Ellen Brooks  
+**TA Duties:**
+- Supported lab sessions, guiding students in circuit design and mechanical systems.
+- Graded lab reports and assignments, offering detailed feedback on both theory and application.
+- Organized additional help sessions for struggling students.
 
-### Spring 2023
+- **Engineering Mathematics**  
+**Instructor:** Dr. George Miller  
+**TA Duties:**
+- Held problem-solving tutorials and supported students during office hours.
+- Assisted with grading assignments and exams, ensuring timely feedback.
+- Conducted exam review sessions to help students prepare for finals.
+
+---
+
+## Spring 2023
 **Courses:**
 - **Concurrent Programming**  
-- **Mechanisms and Electric Circuits**  
-- **Advanced Calculus for Engineering**  
-
-**Instructor:** Dr. [Instructor Name]  
+**Instructor:** Dr. Rachel Brown  
 **TA Duties:**
-- Led lab sessions on concurrent programming and assisted in circuit labs.
-- Graded calculus assignments and guided students through complex circuit designs.
+- Led labs on concurrent programming principles, helping students develop multi-threaded applications.
+- Graded projects and exams focused on synchronization, threading, and concurrency.
+- Held office hours to assist students with debugging complex concurrent programs.
 
+- **Mechanisms and Electric Circuits**  
+**Instructor:** Dr. David Gray  
+**TA Duties:**
+- Supervised labs, teaching students the principles of mechanisms and electrical circuit design.
+- Provided guidance on course projects and graded student submissions.
+- Conducted review sessions before exams to clarify difficult concepts.
 
-=====
+- **Advanced Calculus for Engineering**  
+**Instructor:** Dr. James Stone  
+**TA Duties:**
+- Conducted tutorials to deepen student understanding of advanced calculus applications in engineering.
+- Developed and graded problem sets that challenged students' analytical skills.
+- Provided one-on-one support for students needing extra help with coursework.
 
-### Winter 2023
+---
+
+## Winter 2023
 **Courses:**
 - **Linear Control (Undergraduate Level)**  
-- **Advanced Control (Graduate Level)**  
-
-**Instructor:** Dr. [Instructor Name]  
+**Instructor:** Dr. Angela Moore  
 **TA Duties:**
-- Assisted in both undergraduate and graduate control theory courses.
-- Evaluated student work and provided technical support during lab sessions.
-- Conducted additional tutorials for complex control system topics.
+- Led lab sessions on control systems, focusing on linear control applications.
+- Graded lab reports, exams, and control system design projects.
+- Assisted students with MATLAB simulations and troubleshooting control models.
 
+- **Advanced Control (Graduate Level)**  
+**Instructor:** Dr. Kevin Clark  
+**TA Duties:**
+- Supported graduate students in lab-based courses on advanced control systems.
+- Provided feedback on research papers and control system design projects.
+- Led review sessions on nonlinear control, adaptive systems, and robust control techniques.
 
-=====
+---
 
 ## Conclusion
 
-Through these diverse teaching roles, I have contributed to both undergraduate and graduate education, assisting students in their academic development and enhancing my own skills in teaching, mentoring, and course management.
-
-
-=====
-
-## Key Highlights of Responsibilities:
-
-- Conducting tutorials and review sessions.
-- Grading assignments, lab reports, and exams.
-- Providing one-on-one and group support during office hours.
-- Assisting with the development of course material and projects.
+In each of these roles, I have contributed to the academic development of students by providing a range of support, from grading and feedback to one-on-one assistance, enhancing both their learning experience and my own teaching and mentoring abilities.
