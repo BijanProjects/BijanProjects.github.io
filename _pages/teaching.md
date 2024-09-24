@@ -7,11 +7,6 @@ redirect_from:
   - /teaching
 ---
 
-# Teaching Experience
-
-Throughout my time as a Teaching Assistant (TA), I have supported undergraduate and graduate students across various technical courses, each with distinct responsibilities. Below is a detailed overview of my contributions.
-
----
 
 ## Fall 2024
 **Courses:**
