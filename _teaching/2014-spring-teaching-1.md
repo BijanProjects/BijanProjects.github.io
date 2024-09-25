@@ -3,8 +3,8 @@ title: "Teaching Experience"
 collection: teaching
 type: "Throughout my tenure as a Teaching Assistant (TA), I have contributed to both undergraduate and graduate-level courses. My responsibilities have ranged from supervising labs, conducting tutorials, grading assignments, and providing additional academic support to students."
 permalink: /teaching/
-venue: "Memorial University of Newfoundland, Department of Electrical and Computer Engineering, 2022-present"
-date: ""
+venue: "Memorial University of Newfoundland, Department of Electrical and Computer Engineering"
+date: "2024-09-01"
 location: "St. John's, Canada"
 ---
 
@@ -13,7 +13,7 @@ location: "St. John's, Canada"
 **Courses:**
 - **ENGI 3424 - Engineering Mathematics**  
   **Instructor:** Dr. Glyn George  
-  **TA Duties:** Grading quizzes, invigilating exams, and assisting students with problem-solving techniques.
+  **TA Duties:** Grading quizzes, and invigilating exams.
 
 - **ENGI 1050 - Electric Circuits**  
   **Instructor:** Dr. Thumeera Wanasinghe  
@@ -25,7 +25,7 @@ location: "St. John's, Canada"
 **Courses:**
 - **ECE 7420/ENGI 9823 – Computer Security (Graduate & Undergraduate)**  
   **Instructor:** Dr. Jonathan Anderson  
-  **TA Duties:** Supervised lab sessions, assisted students with cryptography and security topics, graded reports, and held Q&A sessions.
+  **TA Duties:** Supervised lab sessions, assisted students with cryptography and security topics, graded reports, and grading reports and assignments.
 
 - **ENGI 1040 – Mechanisms and Electric Circuits**  
   **Instructor:** Dr. Sohrab Zendehboudi  
@@ -45,27 +45,27 @@ location: "St. John's, Canada"
 
 - **ECE 5200 - Control Systems I**  
   **Instructor:** Dr. Siu O'Young  
-  **TA Duties:** Supervised labs on control theory, performed simulations using Simulink, graded lab reports, and helped troubleshoot control system simulations.
+  **TA Duties:** Supervised labs on control theory, performed simulations using Simulink, graded lab reports, and helped troubleshoot control system simulations and experiments.
 
 - **ENGI 1040 - Mechanisms and Electrical Circuits**  
   **Instructor:** Dr. Doug Smith  
-  **TA Duties:** Managed machine workshops, gave lectures on circuit laws, graded assignments and reports, and performed invigilation duties.
+  **TA Duties:** Managed machine workshops, graded assignments and reports, and performed invigilation duties.
 
 ---
 
 ## Fall 2023
 **Courses:**
 - **ENGI 1020 - Introduction to Programming**  
-  **Instructor:** Dr. [Name]  
-  **TA Duties:** Led lab sessions teaching fundamental programming concepts in Python, graded assignments, and provided debugging support during office hours.
+  **Instructor:** Dr. Eranga Fernando
+  **TA Duties:** Led lab sessions debugging programming tasks in Python, graded assignments, and provided technical support for students after the lab sessions.
 
 - **ENGI 1040 - Mechanisms and Electric Circuits**  
   **Instructor:** Dr. Lesley James  
-  **TA Duties:** Supervised lab sessions, supported students in troubleshooting, and graded lab reports.
+  **TA Duties:** Supervised machine workshops, graded assignments and reports, and managed invigilation duties.
 
 - **ENGI 3424 - Engineering Mathematics**  
   **Instructor:** Dr. Glyn George  
-  **TA Duties:** Graded assignments and provided support for problem-solving tutorials.
+  **TA Duties:** Graded assignments and assisted with invigilation of exams.
 
 ---
 
@@ -76,12 +76,12 @@ location: "St. John's, Canada"
   **TA Duties:** Graded projects on concurrency, and assisted students during office hours with debugging.
 
 - **ENGI 1040 - Mechanisms and Electric Circuits**  
-  **Instructor:** Dr. Sohrab Zendehboudi  
-  **TA Duties:** Supervised lab sessions, graded reports, and provided troubleshooting support during workshops.
+  **Instructor:** Dr. Sohrab Zendehboudi
+  **TA Duties:** Created midterm problem sets, sample problems with solutions, delivered lectures on circuit theory, graded assignments and reports, and managed invigilation duties.
 
 - **ENGI 4430 - Advanced Calculus for Engineering**  
   **Instructor:** Dr. Glyn George  
-  **TA Duties:** Conducted tutorials, developed problem sets, graded assignments, and provided one-on-one support.
+  **TA Duties:** Graded assignments and assisted with invigilation of exams.
 
 ---
 
@@ -93,4 +93,4 @@ location: "St. John's, Canada"
 
 - **ENGI 9826/ECE 7200 - Advanced Control (Graduate Level)**  
   **Instructor:** Dr. Siu O'Young  
-  **TA Duties:** Supported lab sessions on advanced control systems, provided feedback on research projects, and led review sessions on nonlinear and adaptive control techniques.
+  **TA Duties:** Supported lab sessions on advanced control systems, provided feedback on research projects, and led review sessions on modern control theory.
