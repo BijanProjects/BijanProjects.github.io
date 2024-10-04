@@ -13,4 +13,4 @@ redirect_from:
 
 If file does not load below, <a href="{{ site.baseurl }}/files/cv.pdf">try downloading (pdf).</a>
 
-<embed src="{{ site.baseurl }}/files/cv.pdf" width="650" height="800" type='application/pdf'>
+<embed src="{{ site.baseurl }}/files/cv.pdf" width="650" height="900" type='application/pdf'>
